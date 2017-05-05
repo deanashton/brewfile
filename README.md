@@ -12,7 +12,7 @@ Using a Brewfile helps us with our Infrastructure as Code (IaC) initiatives.
 
 Feedback welcome. Pull requests welcome.
 
-To install brwe-file and use this Brewfile:
+To install brew-file and use this Brewfile:
 
     $ brew install rcmdnk/file/brew-file
 
